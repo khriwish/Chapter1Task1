@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1705615676 source:c:\users\abood\desktop\c tasks\learncpp\chapter14\14.12task1\main.cpp
+	<iostream>
+	<cmath>
+
